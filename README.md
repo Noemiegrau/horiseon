@@ -20,7 +20,7 @@ Project is created using:
 ![01-html-css-git-homework-demo-mockup](https://user-images.githubusercontent.com/78329298/107859694-047fe000-6df0-11eb-8a93-aab8ebeb6bdd.png)
 
 ## **_Installation_**
-Here are some guidelines for installing the project on your local machine in order to be able to try it:
+Here are some guidelines for installing the project on your local machine:
 
 1. Clone or download the repository to your own local machine.
 
